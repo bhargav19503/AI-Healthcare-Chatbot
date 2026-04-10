@@ -1,0 +1,5 @@
+flask
+flask-session
+pandas
+numpy
+scikit-learn
